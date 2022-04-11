@@ -5,11 +5,14 @@
 The customer realises that online shopping has gotten popular and wishes to offer their products through an online shop.
 They list out some basic functionality to want to start with on their endeavour with e-commerce:
 
-- As a ***customer***, I should be able to ***see the available products***
-- As a ***customer***, I should be able to ***search the available products***
-- As a ***customer***, I should be able to ***add/remove products to my shopping cart***
-- As a ***customer***, I should be able to ***increase/decrease quantity of the same product on my shopping cart***
-- As a ***administrator***, I should be able to ***add, edit and remove products***
+1. (mandatory) As a ***customer***, I should be able to ***see the available products***
+2. (mandatory) As a ***customer***, I should be able to ***add/remove products to my shopping cart***
+3. (mandatory) As a ***customer***, I should be able to ***search the available products***
+4. (optional) As a ***customer***, I should be able to ***increase/decrease quantity of the same product on my shopping
+   cart***
+5. (optional) As a ***customer***, I should be able to ***to see my profile information and the items on my shopping
+   cart*** (just pick a user ID for that)
+6. (optional) As a ***administrator***, I should be able to ***add, edit and remove products*** (based on the user role)
 
 For inspiration, the customer drew a wireframe of an online shop to help us understand what they were after. It is just
 for clarification purposes, and the customer gave us free hands make it work/look in any way we want.
@@ -18,10 +21,10 @@ for clarification purposes, and the customer gave us free hands make it work/loo
 
 ## Task
 
-Pick two or more topics from the description list and implement them. You must use Angular or VueJS as your main
-frontend framework, and, if you like, you can use other frameworks/plugins you want. We'd expect you to spend 4-8 hours
-with the task. Use the description as inspiration and make something large or small, in which you focus on what you
-think is the most fun.
+You must implement the "mandatory" topics, but feel free to pick more optional topics to be also implemented, if you
+feel like. You must use Angular or VueJS as your main frontend framework, and you also can use other frameworks/plugins
+you want. We'd expect you to spend 4-8 hours with the task. Use the description as inspiration and make something large
+or small, in which you focus on what you think is the most fun.
 
 As a starter pack, this repository contains an API that can be used to help you ignore the specifics of the backend.
 Whether you choose to use the solution provided here is completely up to you.
