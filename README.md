@@ -22,7 +22,7 @@ for clarification purposes, and the customer gave us free hands make it work/loo
 ## Task
 
 You must implement the "mandatory" topics, but feel free to pick more optional topics to be also implemented, if you
-feel like. You must use Angular or VueJS as your main frontend framework, and you also can use other frameworks/plugins
+feel like. You must use Angular as your main frontend framework, and you also can use other frameworks/plugins
 you want. We'd expect you to spend 4-8 hours with the task. Use the description as inspiration and make something large
 or small, in which you focus on what you think is the most fun.
 
