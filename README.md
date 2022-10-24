@@ -14,11 +14,6 @@ They list out some basic functionality to want to start with on their endeavour 
    cart*** (just pick a user ID for that)
 6. (optional) As a ***administrator***, I should be able to ***add, edit and remove products*** (based on the user role)
 
-For inspiration, the customer drew a wireframe of an online shop to help us understand what they were after. It is just
-for clarification purposes, and the customer gave us free hands make it work/look in any way we want.
-
-![pretty straight lines for a drawing](ref.png)
-
 ## Task
 
 You must implement the "mandatory" topics, but feel free to pick more optional topics to be also implemented, if you
